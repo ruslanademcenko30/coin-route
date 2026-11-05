@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coin Route</string>
+    <string name="app_title">COINROUTE</string>
+
+    <string name="splash_subtitle">COIN STRIKE · VIRTUAL ARCADE</string>
+    <string name="splash_loading">LOADING ROUTE</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_challenge">PLAY CHALLENGE</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="launch">LAUNCH</string>
+    <string name="collection">COLLECTION</string>
+    <string name="progress">PROGRESS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="claim">CLAIM</string>
+    <string name="reset">RESET</string>
+    <string name="resume">RESUME</string>
+    <string name="pause">PAUSE</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="menu_tagline">STRIKE THE ROUTE · BUILD THE STREAK</string>
+    <string name="label_tokens">TOKENS</string>
+    <string name="game_hint">ONE TAP · TIMING IS EVERYTHING</string>
+    <string name="points_gain">+%1$d</string>
+    <string name="lane_info">LANE %1$d · x%2$s</string>
+    <string name="streak_value">STREAK x%1$s</string>
+
+    <string name="stat_best">BEST</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+    <string name="stat_routes">ROUTES</string>
+    <string name="stat_route">ROUTE</string>
+    <string name="stat_hits">HITS</string>
+    <string name="stat_runs">RUNS</string>
+    <string name="stat_score">SCORE</string>
+
+    <string name="gameover_title">RUN ENDED</string>
+    <string name="gameover_title_best">ROUTE COMPLETE</string>
+    <string name="final_score">FINAL SCORE</string>
+    <string name="new_best">NEW BEST</string>
+    <string name="reward_tokens">ROUTE TOKENS EARNED · %1$s</string>
+
+    <string name="daily_title">DAILY CHALLENGE</string>
+    <string name="daily_all_done">ALL DONE · COME BACK TOMORROW</string>
+    <string name="daily_reward">CHALLENGE REWARD · %1$s TOKENS</string>
+    <string name="goal_hits">LAND %1$d HITS</string>
+    <string name="goal_streak">REACH STREAK x%1$d</string>
+    <string name="goal_score">FINISH WITH %1$d POINTS</string>
+
+    <string name="rewards_title">REWARD TIERS</string>
+    <string name="tier_requirement">%1$s LIFETIME TOKENS · GRANTS %2$s</string>
+    <string name="progress_empty_title">NO RUNS YET</string>
+    <string name="progress_empty_hint">Launch your first coin on the harbour route and your stats will appear here.</string>
+
+    <string name="section_routes">ROUTES</string>
+    <string name="section_tokens">COIN TOKENS</string>
+    <string name="token_locked">%1$s TOKENS</string>
+
+    <string name="route_harbour">HARBOUR ROUTE</string>
+    <string name="route_canyon">CANYON ROUTE</string>
+    <string name="route_skyline">SKYLINE ROUTE</string>
+    <string name="route_unlock_harbour">OPEN FROM THE START</string>
+    <string name="route_unlock_canyon">UNLOCKS AT 60 HITS</string>
+    <string name="route_unlock_skyline">UNLOCKS AT 180 HITS</string>
+
+    <string name="token_brass">BRASS COIN</string>
+    <string name="token_medallion">MEDALLION</string>
+    <string name="token_crate">TRADE CRATE</string>
+    <string name="token_marker">ROUTE MARKER</string>
+    <string name="token_emblem">STREAK EMBLEM</string>
+
+    <string name="tier_scout">SCOUT</string>
+    <string name="tier_trader">TRADER</string>
+    <string name="tier_captain">CAPTAIN</string>
+    <string name="tier_admiral">ADMIRAL</string>
+    <string name="tier_legend">LEGEND</string>
+
+    <string name="modifier_double_drift">DOUBLE DRIFT</string>
+    <string name="modifier_gold_rush">GOLD RUSH</string>
+    <string name="modifier_steady_hand">STEADY HAND</string>
+    <string name="modifier_tight_lanes">TIGHT LANES</string>
+    <string name="modifier_lucky_markers">LUCKY MARKERS</string>
+    <string name="modifier_long_haul">LONG HAUL</string>
+    <string name="modifier_night_run">NIGHT RUN</string>
+    <string name="modifier_double_drift_body">Targets move 40 percent faster and every hit is worth double.</string>
+    <string name="modifier_gold_rush_body">Bonus markers appear three times as often across all lanes.</string>
+    <string name="modifier_steady_hand_body">Lanes slow down, so only clean timing builds a long streak.</string>
+    <string name="modifier_tight_lanes_body">Faster drift with more bonus markers between the medallions.</string>
+    <string name="modifier_lucky_markers_body">Route markers flood the lanes and each one scores triple.</string>
+    <string name="modifier_long_haul_body">A faster route where every landed strike counts double.</string>
+    <string name="modifier_night_run_body">The quickest drift of the week with doubled scoring.</string>
+
+    <string name="setting_sound">SOUND</string>
+    <string name="setting_haptics">HAPTICS</string>
+    <string name="setting_aim_assist">AIM ASSIST</string>
+    <string name="setting_reset">RESET PROGRESS</string>
+    <string name="reset_body">This clears every score, token, route and reward on this device.</string>
+    <string name="about_brand">COINROUTE · COIN STRIKE</string>
+    <string name="about_version">VERSION 1.0</string>
+    <string name="virtual_notice">THIS APP IS A VIRTUAL ARCADE. NO REAL MONEY, NO WAGERING, NO PURCHASES.</string>
+
+    <string name="pause_body">The route is on hold. Resume the run or head back to the menu.</string>
+
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="state_done">DONE</string>
+    <string name="state_open">NOT DONE YET</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_unlocked">UNLOCKED</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_claimed">CLAIMED</string>
+    <string name="state_ready">READY TO CLAIM</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_coins_left">%1$d coins left in this run</string>
+</resources>
